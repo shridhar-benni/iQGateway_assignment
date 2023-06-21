@@ -1,1 +1,1 @@
-# Maralia Infected Detection App
+# Maralia Infected cell Detection App
