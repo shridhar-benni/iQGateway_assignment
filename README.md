@@ -1,0 +1,1 @@
+# Maralia Infected Detection App
